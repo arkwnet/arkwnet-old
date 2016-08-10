@@ -5,3 +5,24 @@
 	2px -2px 1px black,
 	-2px -2px 1px black;
 }
+
+#SideButton {
+	background: #EEE;
+	border: 1px solid #DDD;
+	color: #111;
+	font-size:18px;
+	width: 100px;
+	padding: 8px 0;
+	text-align:center;
+	width:100%;
+	margin:4px 0;
+}
+
+#SideButton span{
+	font-size:14px;
+	color:gray;
+}
+
+#SideLink:hover{
+	text-decoration:none;
+}
