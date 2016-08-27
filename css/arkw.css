@@ -4,6 +4,8 @@
 	-2px 2px 1px black,
 	2px -2px 1px black,
 	-2px -2px 1px black;
+	background-image:url("../img/back.jpg");
+	background-position:center bottom;
 }
 
 #SideButton {
@@ -25,4 +27,12 @@
 
 #SideLink:hover{
 	text-decoration:none;
+}
+
+.navbar-nav{
+    margin: 0 auto;
+    display: table;
+    table-layout: fixed;
+    float:none;
+    font-size:20px;
 }
